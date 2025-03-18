@@ -1,0 +1,10 @@
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+sqlalchemy==1.4.49
+pydantic==1.10.12
+passlib[bcrypt]==1.7.4  # 비밀번호 해싱
+python-dotenv==1.0.1  # 환경 변수 (.env) 사용
+requests==2.31.0  # HTTP 요청 (OpenAI API 호출)
+openai==1.10.0  # OpenAI API 사용
+psycopg2-binary==2.9.9
+boto3
