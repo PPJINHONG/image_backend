@@ -1,0 +1,2 @@
+psql -h ohpark-rds-pg.cjmw0ci2ownk.ap-northeast-2.rds.amazonaws.com -U ohpark -d postgres
+
